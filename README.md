@@ -1,4 +1,4 @@
-# C++ Codes - YouTube Video Playlist
+# C++ Programming
 
 Welcome to the <b>C++ Programming</b> repository! This repository contains in-depth tutorials on various topics related to C++ programming. Each tutorial provides video explanations, code examples, and exercises to help you understand and master C++ concepts.
 
