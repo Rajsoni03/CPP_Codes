@@ -6,7 +6,8 @@ You can find the complete <b>C++ Programming</b> playlist on our YouTube channel
 
 ## Table of Contents
 
-1. [C++ Code Compilation](01_Code_Compilation) - [Youtube Video](https://youtu.be/Li2QuRJZBPo?si=ZJNovMLm_nHZDsC-)
+1. [Notes](01_Code_Compilation) | [Youtube](https://youtu.be/Li2QuRJZBPo?si=ZJNovMLm_nHZDsC-) :- C++ Code Compilation 
+2. [Notes](01_Code_Compilation) | [Youtube](https://youtu.be/Li2QuRJZBPo?si=ZJNovMLm_nHZDsC-) :- World Behind The `main()` Function
 
 ## License
 
